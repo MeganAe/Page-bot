@@ -9,7 +9,7 @@ app.use(bodyParser.json());
 app.use(express.static('public'));
 
 const PAGE_ACCESS_TOKEN = process.env.PAGE_ACCESS_TOKEN; 
-const VERIFY_TOKEN = "lorex";
+const VERIFY_TOKEN = "pagebot";
 
 let imageHistory = {};
 
