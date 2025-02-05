@@ -1,0 +1,14 @@
+{
+  "files": [
+    "Readme",
+    "package",
+    "server",
+    "index"
+  ],
+  "directories": [
+    "cache",
+    "public",
+    "root"
+  ]
+}
+
